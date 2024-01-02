@@ -4,5 +4,5 @@ import CustomComponent from '../components/checkDomain.vue'
 
 <CustomComponent />
 
-### 若页面未跳转，请点击：[网站IP地址](http://38.6.166.77:10901)
+### 若页面未跳转，请点击：[网站IP链接](http://38.6.166.77:10901)
 
