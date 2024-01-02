@@ -11,7 +11,7 @@ hero:
       link: /check/checkDomain
     - theme: alt
       text: 登 录
-      link: /checkDomain/check.html
+      link: /check/checkDomain
 features:
   - title: 1 如何使用
     details: 安装 - 注册 - 点击'连接' 即可，软件内可直接联系客服、内购套餐，无需登录网页端.
