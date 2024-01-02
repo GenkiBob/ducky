@@ -5,7 +5,7 @@ export default {
     // base: '/ducky/',
     lang: 'zh-CN',
     ignoreDeadLinks: true,
-    outDir: '../dist',
+    // outDir: '../dist',
     themeConfig: {
         siteTitle: 'Ducky Cloud · 速鸭云',
         nav: [
