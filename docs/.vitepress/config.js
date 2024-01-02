@@ -2,7 +2,7 @@ export default {
     title: 'Ducky Cloud',
     description: '速鸭云',
     titleTemplate: '速鸭云',
-    base: '/ducky/',
+    // base: '/ducky/',
     lang: 'zh-CN',
     ignoreDeadLinks: true,
     // outDir: '../dist',
