@@ -1,0 +1,8 @@
+<script setup>
+import CustomComponent from '../components/checkDomain.vue'
+</script>
+
+<CustomComponent />
+
+### 若页面未跳转，请点击：[网站IP地址](http://38.6.166.77:10901)
+

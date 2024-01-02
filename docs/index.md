@@ -8,10 +8,10 @@ hero:
   actions:
     - theme: brand
       text: 下载 & 教程
-      link: http://154.23.241.39:6060/
+      link: /check/checkDomain
     - theme: alt
       text: 登 录
-      link: http://154.23.241.39:6060/
+      link: /checkDomain/check.html
 features:
   - title: 1 如何使用
     details: 安装 - 注册 - 点击'连接' 即可，软件内可直接联系客服、内购套餐，无需登录网页端.
@@ -20,7 +20,7 @@ features:
     link: http://154.23.241.39:17070/
     linkText: 联系客服
   - title: 3 获取退款
-    details: 仅需向客服提供 小白云账号，无需任何理由即可获取退款.
+    details: 仅需向客服提供 本站账号，无需任何理由即可获取退款.
   - title: 账号杂货铺
     details: 出售 GPT 等平台账号.（仅推荐渠道
     link: http://cloud.idid88.com/
