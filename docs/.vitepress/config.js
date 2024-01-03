@@ -1,7 +1,7 @@
 export default {
     title: 'Ducky Cloud',
-    description: '速鸭云',
-    titleTemplate: 'DuckyCloud 是全球IP服务商,全球范围内拥有超过800万个IP,提供企业级海外 HTTP/HTTPS/SOCKS5 代理服务、速度快、稳定高效',
+    description: 'DuckyCloud 是全球IP服务商,全球范围内拥有超过800万个IP,提供企业级海外 HTTP/HTTPS/SOCKS5 代理服务、速度快、稳定高效',
+    titleTemplate: '速鸭云',
     // base: '/ducky/',
     lang: 'zh-CN',
     ignoreDeadLinks: true,
