@@ -9,6 +9,7 @@ hero:
     - theme: brand
       text: 下载 & 教程
       link: /check/checkDomain
+      # link: /down/
     - theme: alt
       text: 登 录
       link: /check/checkDomain
@@ -16,9 +17,7 @@ features:
   - title: 1 如何使用
     details: 下载 - 安装 - 注册 - '连接' ，无需登录网站，软件内可直接内购套餐.
   - title: 2 问题协助
-    details: 右下角联系客服（网络连接不畅的情况下可能不会出现客服图标），或登录发工单. Email：coocangela@gmail.com
-    # link: http://154.23.241.39:17070/
-    # linkText: 联系客服
+    details: 右下角联系客服（网络连接不畅的情况下可能不会出现客服图标），或登录后发工单. 
   - title: 3 获取退款
     details: 仅需向客服提供 本站账号，无需任何理由即可获取退款.
   - title: 账号杂货铺
