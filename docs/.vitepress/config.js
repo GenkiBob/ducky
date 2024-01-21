@@ -18,7 +18,7 @@ export default {
           { text: 'Mac 苹果电脑', link: '/mac' },
           { text: 'Windows 电脑', link: 'https://assets.tyro.wiki/t/okk.exe' },
           { text: 'IOS 苹果手机（平板）', link: 'https://wiki.tyro.wiki' },
-          { text: '安卓 / 鸿蒙 手机（平板）', link: 'https://assets.tyro.wiki/t/okk.apk' },
+          { text: '安卓|鸿蒙 手机（平板）', link: 'https://assets.tyro.wiki/t/okk.apk' },
           { text: '第三方通用软件', link: 'https://wiki.tyro.wiki' },
         ]
       },

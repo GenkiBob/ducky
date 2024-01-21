@@ -14,7 +14,7 @@ title: 快速使用
 1. [Mac 苹果电脑](/mac)
 2. [Windows 电脑](https://assets.tyro.wiki/t/okk.exe)
 3. [IOS 苹果手机（平板）](https://wiki.tyro.wiki)
-4. [安卓 / 鸿蒙 手机（平板）](https://assets.tyro.wiki/t/okk.apk)
+4. [安卓|鸿蒙 手机（平板）](https://assets.tyro.wiki/t/okk.apk)
 
 ## 02 第三方通用软件
 使用更为灵活，首次接触需理解各项功能。
