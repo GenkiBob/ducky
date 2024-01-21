@@ -6,13 +6,15 @@ title: 快速使用
 
 # 软件介绍
 
+如不清楚小猫咪（别名）如何使用，建议下载官方软件。
+
 ## 01 官方软件
 使用更为便捷，只需三步：'注册 —— 登录 —— 连接' 。
 
-1. [Mac 电脑](/mac)
+1. [Mac 苹果电脑](/mac)
 2. [Windows 电脑](https://assets.tyro.wiki/t/okk.exe)
-3. [苹果手机平板](https://wiki.tyro.wiki)
-4. [安卓鸿蒙/手机平板](https://assets.tyro.wiki/t/okk.apk)
+3. [IOS 苹果手机（平板）](https://wiki.tyro.wiki)
+4. [安卓 / 鸿蒙 手机（平板）](https://assets.tyro.wiki/t/okk.apk)
 
 ## 02 第三方通用软件
 使用更为灵活，首次接触需理解各项功能。
