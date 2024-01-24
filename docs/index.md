@@ -5,6 +5,9 @@ hero:
   name: Hi there !
   text: SD-WAN 对等专线 — 加速网络连接
   tagline: 免费试用两天 · 全设备支持 · 承诺不满意可随时退款！
+  # image:
+  #   src: lianjie.png
+  #   alt: Kitty
   actions:
     - theme: brand
       text: 软件下载

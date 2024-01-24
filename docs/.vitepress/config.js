@@ -1,7 +1,7 @@
 export default {
-  title: 'Ducky Cloud',
-  description: 'DuckyCloud 是全球IP服务商,全球范围内拥有超过800万个IP,提供企业级海外 HTTP/HTTPS/SOCKS5 代理服务、速度快、稳定高效',
-  titleTemplate: '速鸭云',
+  title: 'DigiLink',
+  description: 'Digilink 是全球IP服务商,全球范围内拥有超过800万个IP,提供企业级海外 HTTP/HTTPS/SOCKS5 代理服务、速度快、稳定高效',
+  titleTemplate: '数字网络连接',
   // base: '/ducky/',
   lang: 'zh-CN',
   ignoreDeadLinks: true,
@@ -10,7 +10,7 @@ export default {
     ['link', { rel: 'icon', href: '/icon.png' }],
   ],
   themeConfig: {
-    siteTitle: 'Ducky Cloud · 速鸭云',
+    siteTitle: 'DigiLink · 数字连接',
     nav: [
       {
         text: '软件下载',
