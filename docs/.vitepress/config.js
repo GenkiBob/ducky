@@ -10,7 +10,7 @@ export default {
     ['link', { rel: 'icon', href: '/icon.png' }],
   ],
   themeConfig: {
-    siteTitle: 'DigiLink · 数字连接',
+    siteTitle: 'DigiLink · 数连',
     nav: [
       {
         text: '软件下载',
