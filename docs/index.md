@@ -15,7 +15,9 @@ hero:
       # link: /down/
     - theme: alt
       text: 登 录
-      link: "https://xiw95d.coocs.lol/#/"
+      link: 'http://154.23.241.39:9001'
+      target: '_self'
+      rel: nofollow
 features:
   - title: 1 如何使用
     details: 下载 - 安装 - 注册 - '连接' ，无需登录网站，软件内可直接内购套餐.
