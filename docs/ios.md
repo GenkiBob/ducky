@@ -38,12 +38,10 @@ title: 苹果教程
 
 验证码：**nmfan**
 
-**登录前请确保已在当前官网注册账号！**
-
-**若无法登录请卸载重装，或点击右下角联系客服**
-
 <a href="https://apps.apple.com/app/id1595774070">
 <img src="http://assets.tyro.wiki/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
 </a>
 
-点击以上图标可直接跳转下载。
+<h4 style="color:red;margin-top:10px;">登录前请确保已在当前官网注册账号！若无法登录请卸载重装，或点击右下角联系客服.</h4>
+
+已更换ID的前提下，在Safari浏览器中点击以上图标可自动跳转下载.
