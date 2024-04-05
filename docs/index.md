@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Hi there !
   text: SD-WAN 对等专线 — 加速网络连接
-  tagline: 2天5G免费试用 · 30天无理由退款
+  tagline: 5G免费试用 · 30天无理由退款
   image:
     src: /images/banner.webp
     alt: 小白云·COOC
