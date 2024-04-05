@@ -31,22 +31,17 @@ export default {
       },
       { text: '账号杂货铺', link: 'http://cloud.idid88.com/' },
     ],
-    // sidebar: {
-    //   // 当用户在 `指南` 目录页面下将会展示这个侧边栏
-    //   '/down/': [
-    //     {
-    //       text: '快速上手',
-    //       items: [
-    //         // This shows `/guide/index.md` page.
-    //         { text: '介绍', link: '/down/' },
-    //         { text: '苹果 手机&平板', link: '/down/ios' },
-    //         { text: '安卓与鸿蒙 手机&平板', link: '/down/android' },
-    //         { text: 'Windows 电脑', link: '/down/windows' },
-    //         { text: 'Mac 电脑', link: '/down/mac' },
-    //       ]
-    //     },
-    //   ],
-    // }
-  },
-
+    sidebar: [
+      {
+        text: '快速使用',
+        items: [
+          { text: '软件介绍', link: '/intro' },
+          { text: 'Windows 电脑', link: '/windows' },
+          { text: 'MacOS 苹果电脑', link: '/mac' },
+          { text: 'IOS 苹果手机/平板', link: '/ios' },
+          { text: 'Android 安卓/华为/荣耀', link: '/android' },
+        ]
+      }
+    ],
+  }
 }
