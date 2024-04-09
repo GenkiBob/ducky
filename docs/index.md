@@ -7,7 +7,7 @@ hero:
   tagline: 5G免费试用 · 30天无理由退款
   image:
     src: /images/banner.webp
-    alt: 小白云·COOC
+    alt: Digilink
   actions:
     - theme: brand
       text: 快 速 使 用

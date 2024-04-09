@@ -6,9 +6,9 @@ export default {
   lang: 'zh-CN',
   ignoreDeadLinks: true,
   // outDir: '../dist',
-  head: [
-    ['link', { rel: 'icon', href: '/icon.png' }],
-  ],
+  // head: [
+  //   ['link', { rel: 'icon', href: '/icon.png' }],
+  // ],
   themeConfig: {
     siteTitle: 'DigiLink · 数连',
     nav: [
@@ -17,8 +17,8 @@ export default {
         items: [
           { text: 'Mac 苹果电脑', link: '/mac' },
           { text: 'Windows 电脑', link: '/windows' },
-          { text: 'IOS 苹果手机（平板）', link: 'https://wiki.tyro.wiki' },
-          { text: '安卓|鸿蒙 手机（平板）', link: 'https://assets.tyro.wiki/t/okk.apk' },
+          { text: 'IOS 苹果手机（平板）', link: '/ios' },
+          { text: '安卓|鸿蒙 手机（平板）', link: '/android' },
           { text: '第三方通用软件', link: 'https://wiki.tyro.wiki' },
         ]
       },
