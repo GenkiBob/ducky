@@ -8,9 +8,9 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://assets.tyro.wiki/t/okk.exe)
+[点击下载](https://assets.tyro.wiki/t/Digilink.exe)
 
-[备用下载](http://154.23.241.39:9008/t/okk.exe)
+[备用下载](http://154.23.241.39:9008/t/Digilink.exe)
 
 ## 02 安装
 
