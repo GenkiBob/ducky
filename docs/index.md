@@ -23,7 +23,7 @@ features:
   - title: 问题协助
     details: 右下角联系客服.
   - title: 费用区间
-    details: 每月20元起，更有不限时套餐！快点击右下角联系客服获取优惠券吧.
+    details: 每月10元起，更有不限时套餐！快点击右下角联系客服获取优惠券吧.
   - title: 账号杂货铺
     details: 出售 GPT 等平台账号.（仅推荐渠道
     link: http://cloud.idid88.com/
