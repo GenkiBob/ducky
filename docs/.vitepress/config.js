@@ -32,6 +32,13 @@ export default {
         ]
       }
     ],
+    // 图片懒加载
+    markdown: {
+      image: {
+        // 默认禁用图片懒加载
+        lazyLoading: true
+      }
+    },
     footer: {
       copyright: 'Copyright © 2020-present Digital Link Tech'
     }
