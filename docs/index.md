@@ -8,15 +8,17 @@ hero:
   image:
     src: /images/banner.webp
     alt: Digilink
-  # actions:
-  #   - theme: brand
-  #     text: 快 速 使 用
-  #     link: /intro
-  #   - theme: alt
-  #     text: 登 录
-  #     link: 'http://154.23.241.39:9001'
-  #     target: '_self'
-  #     rel: nofollow
+  actions:
+    - theme: brand
+      text: 登 录
+      link: 'http://154.23.241.39:9001'
+      target: '_self'
+      rel: nofollow
+    - theme: alt
+      text: 注 册
+      link: 'http://154.23.241.39:9001/?path=register'
+      target: '_self'
+      rel: nofollow
 features:
   - title: IOS 下载安装
     details: 苹果手机、平板 使用教程
