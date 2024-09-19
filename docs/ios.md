@@ -12,7 +12,7 @@ title: 苹果教程
 
 ::: tip 共享 ID
 
-[共享一](https://f.ipip.dog/disanfang/appleid/js.html)｜[共享二](https://f.ipip.dog/disanfang/appleid/js.html)
+[共享账号](https://28nrw.sha.cx/33cdc3a1268b73e6b5e8b417163ab863)
 
 
 共享账号仅能登录 App Store ，若误登iCloud会出现锁机风险。
