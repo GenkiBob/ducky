@@ -12,7 +12,11 @@ title: 苹果教程
 
 ::: tip 共享 ID
 
-[共享账号](https://28nrw.sha.cx/33cdc3a1268b73e6b5e8b417163ab863)
+[共享账号 1 ](https://idshare.me/)
+
+[共享账号 2 ](https://f.ipip.dog/disanfang/appleid/js.html)
+
+<div style="text-align: right;">若以上渠道账号异常，请直接登录<a href='https://yoo.dog' target="_blank">用户中心</a>，查看“使用教程”内的IOS文档。 </div>
 
 
 共享账号仅能登录 App Store ，若误登iCloud会出现锁机风险。
