@@ -16,14 +16,14 @@ title: 苹果教程
 
 [共享账号 2 ](https://f.ipip.dog/disanfang/appleid/js.html)
 
-<div style="text-align: right;">若以上渠道账号异常，请直接登录<a href='https://yoo.dog' target="_blank">用户中心</a>，查看“使用教程”内的IOS文档。 </div>
+<div style="text-align: left;">若以上渠道账号异常，请直接登录<a href='https://yoo.dog' target="_blank">用户中心</a>，查看“使用教程”内的IOS文档。 </div>
 
 
 共享账号仅能登录 App Store ，若误登iCloud会出现锁机风险。
 
 ⚠️ 切换账号请根据下图操作！
 
-<div style="text-align: right;">以上信息均通过公开途径收集，更新时间：2024-01-20 </div>
+<div style="text-align: left;">以上信息均通过公开途径收集，更新时间：2024-01-20 </div>
 :::
 
 ::: tip 独享 ID
