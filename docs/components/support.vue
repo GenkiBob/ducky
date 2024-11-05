@@ -2,10 +2,10 @@
     import { Crisp } from "crisp-sdk-web";
 
     // 自动加载
-    // Crisp.configure('0de87b57-f520-4955-99fd-f9557fc7adc6');
+    // Crisp.configure('0fb53ae3-615a-4ee3-8c89-728177c7d57e');
 
     //关闭自动加载
-    Crisp.configure('0de87b57-f520-4955-99fd-f9557fc7adc6', {
+    Crisp.configure('0fb53ae3-615a-4ee3-8c89-728177c7d57e', {
     autoload: false
     });
     export default {
