@@ -11,12 +11,12 @@ hero:
   actions:
     - theme: brand
       text: 登 录
-      link: 'http://154.23.241.39:9001'
+      link: 'https://154.23.241.39:20002'
       target: '_self'
       rel: nofollow
     - theme: alt
       text: 注 册
-      link: 'http://154.23.241.39:9001/?path=register'
+      link: 'https://154.23.241.39:20002/?path=register'
       target: '_self'
       rel: nofollow
 features:

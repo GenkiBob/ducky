@@ -17,8 +17,8 @@ export default {
     siteTitle: 'DigiLink · 数连',
     nav: [
       { text: '推广大使计划2.0', link: 'https://d.tyro.wiki' },
-      { text: '账号杂货铺', link: 'http://cloud.idid88.com/' },
-      { text: '用户中心', link: 'http://154.23.241.39:9001/' },
+      { text: '账号杂货铺', link: 'https://idstore.for789.com/' },
+      { text: '用户中心', link: 'https://154.23.241.39:20002/' },
     ],
     sidebar: [
       {
