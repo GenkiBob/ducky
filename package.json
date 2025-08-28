@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "crisp-sdk-web": "^1.0.21",
-    "element-plus": "^2.7.2"
+    "element-plus": "^2.7.2",
+    "yarn": "^1.22.22"
   }
 }
