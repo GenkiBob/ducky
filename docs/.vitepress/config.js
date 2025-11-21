@@ -16,6 +16,7 @@ export default {
   themeConfig: {
     siteTitle: 'DigiLink · 数连',
     nav: [
+      { text: 'GPT Plus自助充值', link: 'https://bestok.cc' },
       { text: '推广大使计划2.0', link: 'https://d.tyro.wiki' },
       { text: '账号杂货铺', link: 'https://idstore.for789.com/' },
       { text: '用户中心', link: 'https://154.26.185.131:61002/' },
