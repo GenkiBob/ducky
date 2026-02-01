@@ -8,7 +8,7 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://23.189.248.64:50089/d/home/alist_files/client/3.10/digital/Digilink-Setup-1.3.10.exe)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/3.10/digital/Digilink-Setup-1.3.10.exe)
 
 ## 02 安装
 

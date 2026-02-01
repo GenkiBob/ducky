@@ -35,13 +35,13 @@ title: 苹果教程
 
 ## 02 切换 ID
 
-![](https://23.189.248.64:50089/d/home/alist_files/img/course/AppStoreID.webp)
+![](https://69.63.199.20:50089/d/home/alist_files/img/course/AppStoreID.webp)
 
 完成上图步骤后，点击右上角「完成」。
 
-![](https://23.189.248.64:50089/d/home/alist_files/img/course/9.webp)
+![](https://69.63.199.20:50089/d/home/alist_files/img/course/9.webp)
 
-![](https://23.189.248.64:50089/d/home/alist_files/img/course/10.webp)
+![](https://69.63.199.20:50089/d/home/alist_files/img/course/10.webp)
 
 ## 03 下载
 
@@ -50,7 +50,7 @@ title: 苹果教程
 验证码（三个零）：**000**
 
 <a href="https://apps.apple.com/app/id1595774070">
-<img src="https://23.189.248.64:50089/d/home/alist_files/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
+<img src="https://69.63.199.20:50089/d/home/alist_files/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
 </a>
 
 <h4 style="color:red;margin-top:10px;">登录前请确保已在当前官网注册账号！若无法登录请卸载重装，或点击右下角联系客服.</h4>

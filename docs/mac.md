@@ -8,9 +8,9 @@ title: Mac教程
 
 ## 01 下载地址
 
-[M 系列芯片](https://23.189.248.64:50089/d/home/alist_files/client/3.10/digital/Digilink-1.3.10-arm64.pkg)
+[M 系列芯片](https://69.63.199.20:50089/d/home/alist_files/client/3.10/digital/Digilink-1.3.10-arm64.pkg)
 
-[Intel 芯片](https://23.189.248.64:50089/d/home/alist_files/client/3.10/digital/Digilink-1.3.10.pkg)
+[Intel 芯片](https://69.63.199.20:50089/d/home/alist_files/client/3.10/digital/Digilink-1.3.10.pkg)
 
 ::: tip
 
