@@ -6,7 +6,21 @@ title: 苹果教程
 
 # IOS/iPad OS 通用软件教程
 
-软件需要外区 ID，可通过提供的共享 ID 下载
+软件名：**Digilink**
+
+验证码（三个零）：**000**
+
+<a href="https://apps.apple.com/app/id1595774070">
+<img src="https://69.63.199.20:50089/d/home/alist_files/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
+</a>
+
+若您首次使用，请按照下方安装步骤操作！
+
+:::tip APP 更新说明
+
+苹果系统会将 APP 与下载时使用的 Apple ID 绑定。若之前使用共享 ID 下载，请先卸载原 APP，再重新获取共享 ID 并下载安装，避免更新提示“账号已停用”等异常信息。
+:::
+
 
 ## 01 获取 APPLE ID
 
@@ -14,17 +28,13 @@ title: 苹果教程
 
 [共享账号](https://js.jiesuo.one/h/083fdb923baf4bda)
 
-<!-- [共享账号 1 ](https://idshare.me/) -->
+1. 共享账号仅能登录 App Store ，若误登 iCloud 会出现锁机风险。
 
-<!-- [共享账号 2 ](https://f.ipip.dog/disanfang/appleid/js.html) -->
+2. 下载时若提示“此 App 在您所在的地区不可用”，请先将App Store从后台清除，重新打开后再下载。
 
-<div style="text-align: left;">若以上渠道账号异常，请直接登录<a href='https://yoo.dog' target="_blank">用户中心</a>，查看“使用教程”内的IOS文档。 </div>
-
-共享账号仅能登录 App Store ，若误登 iCloud 会出现锁机风险。
+3. 首次安装APP，需同意：允许 VN 权限
 
 ⚠️ 切换账号请根据下图操作！
-
-<div style="text-align: left;">以上信息均通过公开途径收集，更新时间：2024-01-20 </div>
 :::
 
 ::: tip 独享 ID
@@ -42,17 +52,3 @@ title: 苹果教程
 ![](https://69.63.199.20:50089/d/home/alist_files/img/course/9.webp)
 
 ![](https://69.63.199.20:50089/d/home/alist_files/img/course/10.webp)
-
-## 03 下载
-
-软件名：**Digilink**
-
-验证码（三个零）：**000**
-
-<a href="https://apps.apple.com/app/id1595774070">
-<img src="https://69.63.199.20:50089/d/home/alist_files/img/i/digilink.webp" style=" border-radius: 20%" width="60"></img>
-</a>
-
-<h4 style="color:red;margin-top:10px;">登录前请确保已在当前官网注册账号！若无法登录请卸载重装，或点击右下角联系客服.</h4>
-
-已更换 ID 的前提下，在 Safari 浏览器中点击以上图标可自动跳转下载.
