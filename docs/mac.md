@@ -10,7 +10,7 @@ title: Mac教程
 
 ## 01 下载地址
 
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/alt/digilink.dmg)
+<!-- [点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/alt/digilink.dmg)
 
 ## 安装步骤：
 
@@ -21,9 +21,9 @@ title: Mac教程
 xattr -dr com.apple.quarantine "/Applications/Digilink.app"
 ```
 
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
+**若以上APP无法安装或使用，请 卸载后 再下载备用 APP** -->
 
-[备用下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/net/digilink.pkg)
+[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/net/digilink.pkg)
 
 ## 备用APP安装步骤
 

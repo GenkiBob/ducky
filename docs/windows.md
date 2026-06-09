@@ -10,7 +10,7 @@ title: Windows教程
 
 ## 01 下载地址
 
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/alt/digilink.exe)
+[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/net/digilink.exe)
 
 :::tip
 安装问题处理：
@@ -26,9 +26,9 @@ title: Windows教程
 在屏幕右下角软件托盘处，找到 Digilink 图标，鼠标右键选择退出。
 :::
 
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
+<!-- **若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
 
-[备用下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/net/digilink.exe)
+[备用下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/net/digilink.exe) -->
 
 ## 02 安装
 
