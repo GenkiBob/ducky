@@ -9,10 +9,10 @@ title: Linux教程
 仅支持图形化界面。
 
 ## Debian|Ubuntu
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/alt/linux/digilink.deb)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/alt/linux/digilink.deb)
 
 ## CentOS|fedora
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/alt/linux/digilink.rpm)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/alt/linux/digilink.rpm)
 
 ## 通用版
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/alt/linux/digilink.tar.gz)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/alt/linux/digilink.tar.gz)
