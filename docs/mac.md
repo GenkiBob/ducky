@@ -8,9 +8,13 @@ title: Mac教程
 
 若设备中已有**同类软件**或**旧版APP**，请先 **断开连接** 并 **卸载** ，避免出现异常情况导致无法正常使用。
 
+第一次使用，请在购买后，**断开**连接，重启APP，或点击 **更新** 按钮。
+
 ## 01 下载地址
 
-<!-- [点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/alt/digilink.dmg)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/alt/digilink.dmg)
+
+安装 并 连接后，若无法使用，请**断开**连接，展开节点列表，勾选 右上角 的**t n模式**，再次**连接**试用。
 
 ## 安装步骤：
 
@@ -21,7 +25,9 @@ title: Mac教程
 xattr -dr com.apple.quarantine "/Applications/Digilink.app"
 ```
 
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP** -->
+**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
+
+安装 并 连接后，若无法使用，请**断开**连接，点击 右上角的**展开按钮**，勾选**虚拟网 模式**，再次**连接**试用，若依然无法使用，勾选**穿透模式**，**断开**连接，重启APP，再次**连接**试用。
 
 [点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/net/digilink.pkg)
 
