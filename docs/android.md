@@ -12,11 +12,11 @@ title: Android教程
 
 ## 01 下载地址
 
-[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/alt/digilink.apk)
-
-**若以上APP无法安装或使用，请 卸载后 再下载备用 APP**
-
 [点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/net/digilink.apk)
+
+<!-- **若以上APP无法安装或使用，请 卸载后 再下载备用 APP** -->
+
+<!-- [点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/net/digilink.apk) -->
 
 若备用APP无法使用，请点击右上角的按钮，勾选 “穿透模式”。
 
