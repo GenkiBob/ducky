@@ -12,7 +12,7 @@ title: Mac教程
 
 ## 01 下载地址
 
-[点击下载](https://154.26.185.131:50089/d/home/alist_files/client/dd/net/dln.dmg)
+[点击下载](https://69.63.199.20:50089/d/home/alist_files/client/dd/jx/dln.dmg)
 
 ## 备用APP安装步骤
 
