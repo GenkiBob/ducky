@@ -16,7 +16,7 @@ hero:
       rel: nofollow
     - theme: alt
       text: 注 册
-      link: 'https://154.26.185.131:61002/?path=register'
+      link: 'https://154.26.185.131:61002'
       target: '_self'
       rel: nofollow
 features:
